@@ -58,14 +58,14 @@
 <br>
 
 <a href="#">
-  <img src="  https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+    <img align="left" width="40px" src="https://github.com/yaserkhalilpour/yaserkhalilpour/blob/main/icons8-telegram-96.png?raw=true" />
 </a>
 <a href="#">
-  <img src=" https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img align="left" width="40px" src="https://github.com/yaserkhalilpour/yaserkhalilpour/blob/main/icons8-gmail-100.png?raw=true" />
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img align="left" width="40px" src="https://github.com/yaserkhalilpour/yaserkhalilpour/blob/main/icons8-linkedin-96.png?raw=true" />
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    <img align="left" width="40px" src="https://github.com/yaserkhalilpour/yaserkhalilpour/blob/main/free-png-bmozj.png?raw=true" />
 </a>
