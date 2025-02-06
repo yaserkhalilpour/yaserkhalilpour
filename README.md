@@ -28,7 +28,7 @@
     "city" => "isfahan",
     "university" => "isfahan",
     "position" => "Front-end"
-    "status" => "Learning the bootstrap"
+    "status" => "coding"
     ];
 
     }
